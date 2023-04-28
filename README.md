@@ -67,7 +67,7 @@ Moving on to the second model, a bar graph is presented to showcase the average 
  
 Understanding the average range of IMDB ratings among different production countries can shed light on the factors contributing to a movie's success in specific regions. Identifying the genres that have proven to be hits in these countries can help filmmakers and industry professionals tailor their production strategies to align with the preferences of audiences in different cultural contexts. However, it is important to note that while genre popularity and high IMDB ratings can be indicative of success, various other factors such as cultural nuances, storytelling techniques, and local marketing efforts may also contribute significantly to a film's performance.
 
-# Tableau
+# Tableau Workbook
 
 https://github.com/gracefazzone/graceluvs4610/blob/main/4610%20Project%202.twbx
 
