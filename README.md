@@ -11,7 +11,7 @@ The Netflix - TV Shows and Movies dataset is particularly valuable for anyone in
 # Team Members
 - [@Grace Fazzone](https://github.com/gracefazzone/graceluvs4610)
 - [@Annie Li](https://github.com/anniewli/project2)
-- [@Young Kim]()
+- [@Young Kim](https://github.com/Youngiyoung/Group-Project)
 - [@William McBride](https://github.com/WilliamMcB23/William-McBride-Project-1---MIST-4610)
  - [@Gustav Bringle](https://github.com/gustavbringle/project2tableua)
 
@@ -70,4 +70,3 @@ Understanding the average range of IMDB ratings among different production count
 # Tableau Workbook
 
 https://github.com/gracefazzone/graceluvs4610/blob/main/4610%20Project%202.twbx
-
